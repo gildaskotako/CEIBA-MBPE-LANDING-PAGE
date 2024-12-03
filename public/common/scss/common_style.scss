@@ -1,0 +1,44 @@
+
+/*----------------------------------------------------------------------------------- 
+Template Name: CEIBA Analytics 
+URI: https://ceiba-analytics.com/
+Description: Mutualisation des Archives du Budget et du Portefeuille de L’État
+Author: CEIBA Analytics
+Version: 2.0 
+
+
+------------------------------------------------------
+   CSS INDEX
+-----------------------------------------------------
+
+    01. Abstract CSS 
+
+    02. Base CSS 
+        # Base CSS
+        # Common CSS
+
+    03. Components CSS 
+        # Header CSS
+        # Elements CSS
+        # Footer CSS
+        
+    04. Home CSS
+        # Home Ai CSS
+        # Home Business CSS
+        # Home e-learning CSS
+        # Home Fintech CSS
+        # Home Software CSS
+        
+    05. Pages CSS
+        # Innerpages CSS 
+-------------------------------------------------------    */
+
+
+@import "abstract";
+
+@import "base/base";
+@import "base/common";
+
+@import "components/header";
+@import "components/elements";
+@import "components/footer";
